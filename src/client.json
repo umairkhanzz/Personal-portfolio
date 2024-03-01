@@ -1,0 +1,64 @@
+[
+    {
+      "id":1,
+      "img":"assets/client.png",
+      "subtitle":"Devsspace",
+      "title":"Ace Glenn",
+      "chief":"Chief Operating Office",
+      "main_title":"Front End Developer to customize Wordpress theme",
+      "social_icon":"via Upwork",
+      "Client_decription": "Faisal delivered great work on this project and I enjoyed working with him. His communication was top-notch, he met all deadlines, and his skills were reasonably strong. I enjoyed working with Faisal and will likely have additional jobs for him in the future."
+     },
+     {
+      "id":2,
+      "img":"assets/client.png",
+      "subtitle":"Devsspace",
+      "title":"Ace Glenn",
+      "chief":"Chief Operating Office",
+      "main_title":"Web Site with Simple Shopping Cart",
+      "social_icon":"via Upwork",
+      "Client_decription": " This was my first time working with Muhammed and I am very pleased that I chose him for this important web development. Everything was implemented as I hoped and the entire process was efficient and professional"
+     },
+      {
+        "id":3,
+        "img":"assets/client.png",
+        "subtitle":"Devsspace",
+        "title":"Gary Corriston",
+        "chief":"Chief Operating Office",
+        "main_title":"SugarCRM Developer",
+        "social_icon":"via Upwork",
+        "Client_decription": "Faisal and his team will get your job done! They are honest and efficient!"
+       },
+       {
+        "id":4,
+        "img":"assets/client.png",
+        "subtitle":"Devsspace",
+        "title":"Michael Kolf",
+        "chief":"Chief Operating Office",
+        "main_title":"Transferring website",
+        "social_icon":"via Upwork",
+        "Client_decription": "Faisal delivered great work on this project and I enjoyed working with him. His communication was top-notch, he met all deadlines, and his skills were reasonably strong. I enjoyed working with Faisal and will likely have additional jobs for him in the future."
+       },
+       {
+        "id":5,
+        "img":"assets/client.png",
+        "subtitle":"Devsspace",
+        "title":"Gary Corriston",
+        "chief":"Chief Operating Office",
+        "main_title":"Website Updates",
+        "social_icon":"via Upwork",
+        "Client_decription": "Great web developer, would definitely hire again!"
+       },
+       
+       {
+        "id":6,
+        "img":"assets/client.png",
+        "subtitle":"Devsspace",
+        "title":"Mohamed Gaber",
+        "chief":"Chief Operating Office",
+        "main_title":"Joomla website to WordPress including the design",
+        "social_icon":"via Upwork",
+        "Client_decription": "Great, very professional developer. One word is enough. Faisal did a great job with a successful result."
+       }
+      
+]

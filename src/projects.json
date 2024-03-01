@@ -1,0 +1,98 @@
+[
+    {
+        "id":"exampleModal",
+        "img":"assets/1.jpg",
+        "Title":"PolyAnalytik",
+        "main_para":"PolyAnalytik Inc. (PAI) was founded in 2007 at Western University Research Park in London, Ontario, Canada.  PolyAnalytik multidisciplinary team of experts in material science & engineering, polymer chemistry, biomedical engineering, and biotechnology have a combined 40 years of experience in providing accurate, reproducible, and validated analytical services to a variety of sectors.  PolyAnalytik provides expert analytical and regulatory approval support through contract analysis, method development, and validation services to the petrochemical, polymer/plastics, pharmaceutical companies, and research institutions.",
+        "mini_title":"Technologies",
+        "title1":"CRM",
+        "para1":"Integrations",
+        "title2":"Site Kit, Google Analytics",
+        "para2":"WordPress",
+        "title3":"JavaScript Libraries",
+        "para3":"jQuery Migrate, jQuery",
+        "title4":"WordPress Plugins",
+        "para4":"Contact form 7, Yoast SEO, GTranslate"
+        
+    },
+    {
+        "id":"exampleModal2",
+        "img":"assets/2.jpeg",
+        "Title":" Koru Kids",
+        "main_para":"Launched in 2017 with main products such as booster seats on chairs for children, the Toddler and Junior Booster, a unique and high-quality alternative to the classic high chair, is now used in more than 50 countries by families, hotels, restaurants, and cruise ships. In the years that followed, Koru Kids specialized in high-quality children's products that are easy to use, have a high level of functionality and have a modern, timeless design, All products are manufactured in Germany.",
+        "mini_title":"Technologies",
+        "title1":"CRM",
+        "para1":" Shopify ",
+        "title2":"Payment method integrations",
+        "para2":"Visa, PayPal, Mastercard, Google Pay, Apple Pay, American Express, Amazon Pay",
+        "title3":"HubSpot",
+        "para3":"jQuery Migrate, jQuery",
+        "title4":"Front End",
+        "para4":"React"
+        
+    },
+    {
+        "id":"exampleModal3",
+        "img":"assets/3.jpeg",
+        "Title":"Platinum Properties NYC",
+        "main_para":"Platinum Properties is a full-service family-owned boutique brokerage in New York City. Platinum Properties network of international and domestic investors, developers, and landlords has positioned Platinum Properties since 2005 as the smart choice for luxury real estate transactions in New York City Real Estate—sometimes they even make history.",
+        "mini_title":"Technologies",
+        "title1":"CRM",
+        "para1":"WordPress",
+        "title2":"Integrations",
+        "para2":"Facebook Pixels, Google Analytics",
+        "title3":"JavaScript Libraries",
+        "para3":"Moment.js, core-js, SweetAlert2, Select2, jQuery Migrate, jQuery",
+        "title4":"WordPress Plugins",
+        "para4":"Contact form 7, Yoast SEO, GTranslate"
+        
+    },
+    {
+        "id":"exampleModal4",
+        "img":"assets/4.jpeg",
+        "Title":"Custom HTML Template for restaurants",
+        "main_para":"PolyAnalytik Inc. (PAI) was founded in 2007 at Western University Research Park in London, Ontario, Canada.  PolyAnalytik multidisciplinary team of experts in material science & engineering, polymer chemistry, biomedical engineering, and biotechnology have a combined 40 years of experience in providing accurate, reproducible, and validated analytical services to a variety of sectors.  PolyAnalytik provides expert analytical and regulatory approval support through contract analysis, method development, and validation services to the petrochemical, polymer/plastics, pharmaceutical companies, and research institutions.",
+        "mini_title":"Technologies",
+        "title1":"Front End",
+        "para1":"HTML, CSS, Bootstrap, JavaScript and jQuery",
+        "title2":"Analytics",
+        "para2":"Pinterest Conversion Tag, Google Analytics",
+        "title3":"JavaScript Libraries",
+        "para3":"jQuery Migrate, jQuery",
+        "title4":"WordPress Plugins",
+        "para4":"Momnet.js, jQuery"
+        
+    },
+    {
+        "id":"exampleModal5",
+        "Title":"Sun King Vacation Rentals LLC",
+        "img":"assets/5.jpeg",
+        "main_para":"Sun King Vacation Rentals was started to fill a void in the property management business on Marco Island and in Naples, Florida. The mission of the company is to serve our owners and guests at the highest level. The Sun King staff recognized that hospitality and attention to detail in the vacation rental niche were lacking on Marco Island. They opened Sun King Vacation Rentals to create a better island experience for guests and a better return on investment for owners.",
+        "mini_title":"Technologies",
+        "title1":"CRM",
+        "para1":" WordPress",
+        "title2":"Language",
+        "para2":" PHP     ",
+        "title3":"Integrations",
+        "para3":"Google Analytics",
+        "title4":"Plugins",
+        "para4":"Contact form 7, Yoast SEO, WP Rocket"
+        
+    },
+    {
+        "id":"exampleModal6",
+        "img":"assets/6.jpg",
+        "Title":"Sana Racing",
+        "main_para":"Sana Racing provide complete training and financial support through sponsorship for young drivers on their journey from karting to Formula 1. Sana Racing started in 2020 after many years of competing and participating in motorsport. Since that time, Sana Racing has professionally coached young drivers and have a number of race wins under our belt. Sana Racing provides racing team support from grassroots clubs to European front-runners. Currently, Sana Racing cover the UK motorsport competitions but with European race dates booked for 2023, we are looking to expand further.",
+        "mini_title":"Technologies",
+        "title1":"CRM",
+        "para1":" WordPress",
+        "title2":"Integrations",
+        "para2":"Site Kit, Google Analytics",
+        "title3":"Maps",
+        "para3":" Google Maps",
+        "title4":"JavaScript Libraries",
+        "para4":"jQuery Migrate, jQuery, OWL Carousel"
+        
+    }
+]

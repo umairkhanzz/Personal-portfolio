@@ -1,0 +1,39 @@
+[
+    {
+     "id": 1,
+     "img":"assets/Webicon.png",
+     "title":"Website Development",
+     "decription":"Get your business online using this website development service. I’ll provide you with the best possible website for your business using top-notch technologies."
+    },
+    {
+        "id": 2,
+        "img":"assets/crm.png",
+        "title":"CRM Consultation/Integration",
+        "decription":"Stay integrated, automate and manage your business from one solution with CRM consultation and integration Services."
+    },
+    {
+        "id": 3,
+        "img":"assets/phone.png",
+        "title":"Mobile App Development ",
+        "decription":"There are more than 3 billion mobile users in the world. Don’t you think having a mobile app will increase your revenue? I’m providing the latest technology App development services for all businesses. "
+    },
+    {
+        "id": 4,
+        "img":"assets/management.png",
+        "title":"Project Management  ",
+        "decription":"Project management is just not something that you can handle easily. I have been managing projects with several companies for 10 years. If you’re looking for a reliable project manager lets schedule a quick call."
+    },
+    {
+        "id": 5,
+        "img":"assets/book.png",
+        "title":"Web Application Development ",
+        "decription":"Building scalable web apps using modern frameworks, structured architecture patterns, and user-centric UI/UX designs are the things that differentiate me from competitors. In a nutshell, my custom web application development services are a promised commitment to quality and on-time delivery. "
+       },
+       {
+        "id": 6,
+        "img":"assets/tv.png",
+        "title":"ROR Development ",
+        "decription":"The most popular website built on Rails now is Twitter.com and the most popular e-commerce solution is Shopify. If you have the idea of building an advanced web application or enhance your existing one I can help you. Using the Rails API and its extensive package library RubyGem, your next project can be created in less development time."
+       } 
+
+]

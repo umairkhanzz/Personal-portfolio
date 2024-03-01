@@ -1,0 +1,872 @@
+/* container start width set */
+@media only screen and (min-width:1024px) {
+  .image-center{
+    max-width: 450px;
+    margin-left: 47px;
+  }
+  
+}
+@media only screen and (max-width: 1200px) {
+  .inner2 {
+    min-height: 350px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .inner2 {
+    min-height: 438px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .inner2 {
+    min-height: 380px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .inner2 {
+    min-height: 320px;
+  }
+}
+@media only screen and (max-width: 1399px) and (min-width:200px) 
+  {
+    .banner-set {
+        max-width: 1320px !important;
+    }
+    .banner-second{
+        max-width: 1321px !important;
+    }
+  }
+  /* container end width set */
+  /* banner responsive start*/
+   @media only screen and (max-width:1199px) and (min-width:200px) {
+  .navbar-toggler{
+    background: var(--gradient-box-w);
+      box-shadow: var(--shadow-3);
+      padding: 0;
+      width: 50px;
+      height: 50px;
+      z-index: 1;
+      border-radius: 100%;
+      position: relative;
+      text-align: center;
+      margin-left: 16px;
+      line-height: 0;
+      border: none;
+      transition: 0.5s all ease;
+  }
+
+  .navbar-toggler:hover {
+    border: none;
+    color: unset;
+  }
+  .testi_section{
+    margin-bottom: 109px !important; 
+  }
+  
+  .owl-theme .owl-nav {
+    display: none;
+    
+  }
+  .navbar-toggler-icon {
+    border: 0 !important;
+    background-size: 87%;
+  }
+  .offcanvas-body{
+   display: block !important;
+  }
+  
+  .image-center{
+      text-align: center;
+  }
+  .offcanvas{
+   
+    background: var(--gradient-box-w);
+    visibility: visible;
+    opacity: 1;
+ 
+    transition: all 0.5s ease-out;
+  }
+  .main_menu > li {
+    margin: 1px 8px;
+   
+}
+.footer-nav{
+ margin-top: 111px;
+}
+ }
+ /* banner responsive start*/
+ /* banner start heading responsive title */
+ @media only screen and (min-width: 992px) and (max-width: 1199px)
+{
+  .progress-charts {
+    overflow: hidden;
+    margin-right: 37px;
+  }
+  .testi_section{
+    margin-bottom: 109px !important; 
+  }
+  .title {
+    font-size: 50px !important;
+    line-height: 1.2 !important;
+}
+.title-tes{
+  font-size: 22px !important;
+
+}
+.inner2 .content .title > a{
+  font-size: 20px !important;
+  line-height: 30px !important;
+}
+.sec-title {
+  font-size: 38px !important;
+  margin-top: 7px;
+}
+.clients-title{
+  font-size: 38px;
+  line-height: 50px;
+}
+.section-title > h2.sec-title {
+  font-size: 38px !important;
+  line-height: 50px;
+}
+.testimonial .inner .card-info{
+  max-width: 250px !important;
+  min-width: 236px !important;
+  padding: 20px;
+}
+
+.testimonial .inner .card-info .card-thumbnail img {
+  max-width: 100%;
+  height: auto;
+  transition: transform .80s;
+  transform-origin: center;
+  display: inline-block !important;
+  object-fit: cover;
+  width: 150px !important;
+}
+.testimonial > .inner {
+ 
+   justify-content: start !important
+ 
+}
+.testimonial .inner .card-description{
+  width: 76% !important;
+}
+.testimonial{
+  padding: 10px;
+}
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+  .title2{
+    font-size: 24px !important;
+    line-height: 34px !important;
+  }
+  h1.title {
+    font-size: 50px !important;
+    line-height: 60px !important;
+}
+
+.title-tes{
+  font-size: 22px !important;
+  line-height: 32px !important;
+}
+
+.inner2 .content .title > a{
+  font-size: 20px !important;
+  line-height: 30px !important;
+}
+.sec-title {
+  font-size: 40px !important;
+  margin-top: 7px !important;
+}
+.maintitle{
+  font-size: 30px !important;
+}
+.client-title{
+  font-size: 40px !important;
+  margin-top: 7px !important;
+}
+.section-title > h2.sec-title {
+  font-size: 40px !important;
+  margin-top: 7px;
+}
+.testimonial .inner .card-info .card-thumbnail{
+  max-width: 150px;
+    margin-right: 25px;
+    margin-bottom: 0;
+
+}
+.testimonial > .inner{
+  display: block;
+}
+.testimonial .inner .card-info{
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 100% !important;
+  display: flex;
+  padding: 30px;
+
+}
+.testimonial .inner .card-description::after{
+  display: none;
+}
+.testimonial .inner .card-description::after{
+ display: none;
+}
+.testimonial .inner .card-description{
+   min-height: 315px;
+    width: 100%;
+    padding: 35px 30px;
+    margin-top: 35px;
+}
+.testimonial .inner .card-description::before {
+  display: none;
+}
+
+
+
+}
+@media only screen and (max-width:479px) {
+
+  .maintitle{
+    font-size: 24px !important;
+  }
+  
+}
+@media only screen and (max-width:575px) and (min-width:478px) {
+ 
+  .maintitle{
+    font-size: 30px !important;
+  }
+  .client-title{
+    text-align: center;
+    margin: 0;
+    font-size: 34px !important;
+  }
+  .client-set{
+    text-align: center !important;
+  }
+  .section-title > h2.sec-title {
+    text-align: center;
+    margin: 0;
+    font-size: 34px !important;
+  }
+  
+}
+
+@media only screen and (max-width:479px) and (min-width:200px) {
+ 
+  .maintitle{
+    font-size: 24px !important;
+  }
+  .resume {
+    text-align: center;
+  }
+  .resume-single-list .inner .heading .title h4
+ {
+  font-size: 19px;
+    line-height: 34px;
+ } 
+ .section-title > h2.sec-title {
+  text-align: center;
+  margin: 0;
+  font-size: 34px !important;
+}
+}
+
+@media only screen and (max-width:575px) {
+  .sec-title {
+    text-align: center;
+    margin: 0;
+    font-size: 34px !important;
+  }
+
+ 
+}
+@media only screen and (max-width:767px ) and (min-width:574px) {
+  
+  .input {
+    font-size: 43px !important;
+  }
+ 
+  
+  .sec-title {
+   font-size: 40px !important;
+}
+.testimonial > .inner {
+  display: block;
+}
+.testimonial .inner .card-info {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 100% !important;
+  display: flex;
+  padding: 30px;
+}
+.testimonial .inner .card-info .card-thumbnail{
+max-width: 100px;
+margin-right: 25px;
+margin-bottom: 0;
+
+
+}
+.testimonial > .inner{
+display: block;
+}
+.testimonial .inner .card-info{
+width: 100% !important;
+max-width: 100% !important;
+min-width: 100% !important;
+display: flex;
+padding: 30px;
+
+}
+.testimonial .inner .card-description::after{
+display: none;
+}
+.testimonial .inner .card-description::after{
+display: none;
+}
+.testimonial .inner .card-description{
+  min-height: 317px;
+ width: 100%;
+  padding: 35px 30px;
+  margin-top: 35px;
+}
+.testimonial .inner .card-description::before {
+display: none;
+}
+
+   }
+   @media only screen and (max-width:485px) and (min-width:200px) {
+    .title{
+      font-size: 28px !important;
+       line-height: 40px !important;
+    }
+    .input{
+     font-size: 24px !important;
+    }
+    
+   }
+
+/* banner end heading responsive title */
+/*banner setting start */
+ @media only screen and (max-width:1024px) and (min-width:200px) {
+  .banner-set > .row{
+    flex-direction: column-reverse;
+  }
+  .img-width {
+    width: 100% ;
+  }
+  .icon-set{
+    margin-top: 44px !important;
+  }
+  .desciption{
+    padding-right: 0 !important;
+  }
+  .social-icone {
+    padding-bottom: 25px !important;
+  }
+  .content-width {
+    width: 80% !important;
+}
+.title_handle {
+  margin-top: 40px !important;
+}
+ }
+/*banner setting start */
+
+@media only screen and (max-width:599px) and (min-width:200px) {
+  .content-width {
+    width: 99% !important;
+}
+}
+/* card start responsive */
+@media only screen and (max-width:991px) and (min-width:766px) {
+ .card-three{
+  position: relative;
+    bottom: 426px;
+    right: -494px;
+}
+.card-six{
+  position: absolute;
+ }
+ .card-top{
+  margin-top: 20px
+ }
+ .row-manage{
+  margin-top: 39px !important;
+ }
+ 
+ }
+ @media only screen and (max-width:767px) and (min-width:765px) {
+  .card-manage{
+    margin-top: 20px;
+  }
+  
+ }
+ @media only screen and (max-width:765px)  {
+  .card-manage{
+    margin-top: 20px;
+  }
+  
+ }
+ @media only screen and (max-width:767px) and (min-width:513px) {
+  .card-img2{
+    width: 96%;
+    margin-left: 13px;
+  }
+  
+ }
+ @media only screen and (max-width:512px) and (min-width:439px) {
+  .card-img2{
+    width: 95%;
+   
+  }
+  
+ }
+ @media only screen and (max-width:440px) and (min-width:400px){
+  .card-img2{
+    width: 94%;
+   
+  }
+  
+ }
+ @media only screen and (max-width:400px) and (min-width:340px){
+  .card-img2{
+    width: 93%;
+   
+  }
+  
+ }
+ @media only screen and (max-width:340px) and (min-width:200px){
+  .card-img2{
+    width: 92%;
+   
+  }
+  
+ }
+ @media only screen and (max-width: 575px)
+{
+  
+.testimonial .inner .card-description::before {
+  display: none;
+}
+.testimonial .inner .card-description::after{
+  display: none;
+}
+.testimonial .inner .card-description::after{
+ display: none;
+}
+  .feature_section {
+    text-align: center;
+}
+.card2-manage{
+  margin-top: 20px;
+}
+.main_subtitle{
+  margin: 0 !important;
+    font-size: 34px !important;
+}
+.feature-heading{
+  
+  margin-bottom: 30px !important;
+}
+.testimonial .inner .card-info .card-thumbnail{
+  max-width: 100%;
+    margin-right: 0;
+    margin-bottom: 20px;
+}
+.testimonial .inner .card-info{
+  width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    display: block;
+    padding: 20px;
+}
+.testimonial > .inner{
+  display: block;
+    margin: 0;
+}
+.testimonial .inner .card-description{
+  min-height: 475px;
+  width: 100% !important;
+  padding: 20px;
+  margin-top: 35px;
+}
+.title2 {
+  font-size: 18px !important;
+  line-height: 27px !important;
+}
+}
+@media only screen and (max-width:576px){
+  .testimonial .inner .card-description .title-area {
+    flex-direction: column;
+    align-items: baseline;
+  }
+  .testimonial .inner .card-description .title-area .title-info{
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width:767px) and (min-width:200px) {
+  .rn-nav-list {
+    display: block;
+  }
+  .title-tes{
+    font-size: 14px !important;
+    margin-bottom: 6px !important;
+  }
+  .footer-style-2 .ft-widget-list-wrapper .menu-footer li a {
+    font-size: 16px;
+  }
+}
+ /* timeline start */
+ @media only screen and (max-width:1200px) and (min-width:1100px) {
+  .timeline .timeline-body {
+    margin-left: 9% !important;
+   
+}
+.timeline:before {
+  
+  left: 26% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 51px !important;
+  width: 22px !important;
+  
+}
+  
+ }
+ @media only screen and (max-width:1100px) and (min-width:1000px) {
+  .timeline .timeline-body {
+    margin-left: 10% !important;
+   
+}
+.timeline:before {
+  
+  left: 27% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 51px !important;
+ 
+  
+}
+  
+ }
+ @media only screen and (max-width:999px) and (min-width:935px)  {
+  .timeline .timeline-body {
+    margin-left: 10% !important;
+   
+}
+.timeline:before {
+  
+  left: 28% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 51px !important;
+ 
+  
+}
+  
+ }
+ @media only screen and (max-width:935px) and (min-width:869px)  {
+  .timeline .timeline-body {
+    margin-left: 16% !important;
+   
+}
+.timeline:before {
+  
+  left: 29% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 51px !important;
+ 
+  
+}
+  
+ }
+ @media only screen and (max-width:870px) and (min-width:835px){
+  .timeline .timeline-body {
+    margin-left: 18% !important;
+   
+}
+.timeline:before {
+  
+  left: 30% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 51px !important;
+ 
+  
+}
+  
+ }
+ @media only screen and (max-width:835px) and (min-width:779px) {
+  .timeline .timeline-body {
+    margin-left: 25% !important;
+   
+}
+.timeline:before {
+  
+  left: 37% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 73px !important;
+ 
+  
+}
+  
+ }
+
+ @media only screen and (max-width:780px) and (min-width:768px) {
+  .timeline .timeline-body {
+    margin-left: 26% !important;
+   
+}
+.timeline:before {
+  
+  left: 38% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 73px !important;
+ 
+  
+}
+  
+ }
+ @media only screen and (max-width:603px) and (min-width:598px)  {
+  .timeline .timeline-body {
+    margin-left: 33% !important;
+   
+}
+
+.timeline:before {
+  
+  left: 30% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 77px !important;
+ 
+  
+}
+ }
+ @media only screen and (max-width:598px) and (min-width:579px)  {
+  .timeline .timeline-body {
+    margin-left: 33% !important;
+   
+}
+
+.timeline:before {
+  
+  left: 30% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 77px !important;
+ 
+  
+}
+ }
+ @media only screen and (max-width:579px) and (min-width:557px)  {
+  .timeline .timeline-body {
+    margin-left: 35% !important;
+   
+}
+
+.timeline:before {
+  
+  left: 30% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 75px !important;
+ 
+  
+}
+ }
+ @media only screen and (max-width:557px)  {
+  .timeline .timeline-body {
+    margin-left: 35% !important;
+   
+}
+
+.timeline:before {
+  
+  left: 30% !important;
+ 
+}
+.timeline .timeline-icon a {
+  margin-left: 70px !important;
+ 
+  
+}
+ }
+ @media only screen and (max-width:520px)  {
+  .timeline .timeline-icon a {
+    margin-left: 64px !important;
+   
+    
+  }
+}
+
+
+
+@media only screen and (max-width:571px) and (min-width:562px)  {
+  .timeline .timeline-icon a {
+    margin-left: 73px !important;
+   
+    
+  }
+
+}
+@media only screen and (max-width:563px) and (min-width:479px) {
+  .timeline .timeline-icon a {
+    margin-left: 73px !important;
+   
+    
+  }
+
+}
+@media only screen and (max-width: 479px)
+{
+  .personal-experience-inner .experience-list .resume-single-list, .progress-wrapper .experience-list .resume-single-list {
+    padding: 20px;
+}
+}
+@media only screen and (max-width:479px)  and (min-width:200px) {
+  .timeline .timeline-body {
+    margin-left: 100px !important;
+    padding: 20px !important;
+}
+.timeline .timeline-icon a{
+  display: none;
+}
+.timeline .timeline-body:before {
+  display: none;
+}
+.timeline:before {
+  display: none;
+}
+
+
+
+ 
+/* cards section start */
+
+@media only screen and (max-width:986px) and (min-width:479px)  {
+  .nav-pills {
+    margin-bottom: 38px !important;
+   
+    
+  }
+
+}
+@media only screen and (max-width: 767px)
+{
+  .client-card .main-content {
+    flex-basis: 50%;
+}
+}
+@media only screen and (max-width: 479px)
+{
+  .client-card .main-content {
+    flex-basis: 100%;
+}
+.client-card{
+  margin-top: 14px;
+}
+}
+
+}
+@media only screen and (max-width:575px) {
+  .footer-style-2 .ft-widget-list-wrapper .menu-title h6 {
+    margin-top: 67px;
+   
+}
+}
+@media only screen and (max-width:991px) and (min-width:478px) {
+ 
+  .client-card {
+    margin-top: 14px !important;
+}
+  
+}
+@media only screen and (max-width:1022px)  and (min-width:200px) {
+  .post-like2 {
+    margin-top: 20px;
+    
+}
+}
+@media only screen and (max-width:991px) and (min-width:565px)   {
+  .modal .modal-dialog .modal-content .modal-body .text-content h3 {
+    margin-top: 20px;
+   
+}
+}
+@media only screen and (max-width:566px)    {
+  .modal .modal-dialog .modal-content .modal-body .text-content h3 {
+    margin-top: 20px;
+   
+}
+.set-align {
+  margin-left: 0 !important;
+}
+}
+@media only screen and (max-width: 767px)
+{
+  .modal .modal-dialog .modal-content .modal-body .text-content h3 {
+    font-size: 24px;
+}
+}
+@media only screen and (max-width: 781px) and (min-width:200px)
+{
+ .is-layout-flex  {
+  display: block;
+ }
+}
+@media only screen and (max-width: 342px) and (min-width:200px)
+{
+  .post-like2 {
+     margin-left: 0 !important;
+   
+}
+}
+@media only screen and (max-width: 575px)
+{
+  .info-list ul li {
+    flex-basis: 96%;
+ 
+}
+}
+@media only screen and (max-width: 767px)
+{
+  
+}
+@media only screen and (max-width: 479px)
+{
+  .modal .modal-dialog .modal-content {
+    padding: 40px 15px 25px 15px;
+}
+}
+@media only screen and (max-width:991px) and (min-width:200px) {
+.form-content-area {
+ 
+  margin-left: 0 !important;
+  padding-bottom: 62px  ;
+  
+}
+}
+
+/* card end responsive */
+
